@@ -32,8 +32,6 @@
 #define ht16k33_h
 
 #include "module.h"
-#include "lauxlib.h"
-#include "platform.h"
 
 class HT16K33
 {
